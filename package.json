@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkshaySharma008/DoodleWithNodeSocket.git"
+    "url": "git+https://github.com/navjyotnarang/Drawing-board-using-socket-programming.git"
   },
   "author": "Akshay Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkshaySharma008/DoodleWithNodeSocket/issues"
+    "url": "https://github.com/navjyotnarang/Drawing-board-using-socket-programming/issues"
   },
-  "homepage": "https://github.com/AkshaySharma008/DoodleWithNodeSocket#readme",
+  "homepage": "https://github.com/navjyotnarang/Drawing-board-using-socket-programming#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.6",
